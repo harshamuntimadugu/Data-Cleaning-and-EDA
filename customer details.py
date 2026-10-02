@@ -86,9 +86,9 @@ print("Branch:", customer.get("Branch"))
 print("Phone Number:", customer.get("Phone Number"))
 print("Email:", customer.get("Email"))
 
-print("\nDeposit Amount:", deposit)
+print("Deposit Amount:", deposit)
 print("Withdrawal Amount:", withdrawal)
-print("Final Balance:", customer.get("Balance"))
+print("Remaining Balance:", customer.get("Balance"))
 
 if customer.get("Balance") > 0:
     print("Account Status: Active")
