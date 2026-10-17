@@ -1,0 +1,26 @@
+SWYNEX Task 3 - Interactive Dashboard
+
+Project
+Titanic Survival Analysis Dashboard
+
+Objective
+To create an interactive dashboard that communicates key findings from the analyzed Titanic dataset.
+
+Tools Used
+Power BI
+CSV Dataset
+Dashboard Features
+Total Passengers
+Total Survivors
+Survival Rate
+Average Age
+Survival by Gender
+Survival by Passenger Class
+Passengers by Class
+Survivors by Embarkation
+Interactive filters for Sex, Pclass and Embarked
+Dataset
+Cleaned Titanic dataset prepared during Task 2.
+
+Task
+SWYNEX Task 3 - Interactive Dashboard
